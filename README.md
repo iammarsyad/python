@@ -1,0 +1,2 @@
+# python
+Dibuang sayang
